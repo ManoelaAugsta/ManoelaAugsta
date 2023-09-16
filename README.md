@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ManoelaAugsta (without a second `U`)
+- 👋 Hi, I’m Manoela Augusta with a link @ManoelaAugsta (without a second **u**)
 - 👀 I’m interested in learning, family time, dance, traveling 
 - 🌱 I’m currently learning HTML,CSS,Javascript 
-- 💞️ I’m looking to collaborate on started projects to get experience, my goal is to be a QA 
+- 💞️ I’m looking to collaborate on started projects to get experience, to be a QA 
 - 📫 How to reach me no my profile on LinkedIn https://www.linkedin.com/in/manoela-augusta-santos/
 
 <!---
