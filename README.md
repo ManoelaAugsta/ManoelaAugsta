@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManoelaAugsta
+- 👋 Hi, I’m @ManoelaAugsta (without a second `U`)
 - 👀 I’m interested in learning, family time, dance, traveling 
 - 🌱 I’m currently learning HTML,CSS,Javascript 
 - 💞️ I’m looking to collaborate on started projects to get experience, my goal is to be a QA 
